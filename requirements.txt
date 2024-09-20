@@ -1,0 +1,15 @@
+# YOLOv5 requirements
+torch
+torchvision
+numpy
+opencv-python
+matplotlib
+Pillow
+PyYAML
+
+# Google Colab specific
+ipython
+google-colab
+
+# Additional libraries for app (optional)
+streamlit
